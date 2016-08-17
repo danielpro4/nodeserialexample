@@ -1,0 +1,27 @@
+{
+  "name": "nodeserialexample",
+  "version": "1.0.0",
+  "description": "Ejemplo de app para leer del puerto serie RS-232",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielpro4/nodeserialexample.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "SerialPort",
+    "Goplek"
+  ],
+  "author": "daniel - daniel.perez.atanacio@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielpro4/nodeserialexample/issues"
+  },
+  "homepage": "https://github.com/danielpro4/nodeserialexample#readme",
+  "dependencies": {
+    "serialport": "^4.0.1"
+  }
+}
